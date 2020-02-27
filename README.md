@@ -1,1 +1,1 @@
-# 2048
+# Console 2048 game
